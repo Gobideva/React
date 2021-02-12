@@ -1,0 +1,42 @@
+{
+  "users": [
+    {
+      "name": "Max",
+      "username": "Millian",
+      "password": "12345678",
+      "address": "Chennai",
+      "citizenship": "Indian",
+      "statename": "Tamilnadu",
+      "country": "India",
+      "zipCode": "641035",
+      "email": "max@msn.com",
+      "gender": "male",
+      "maritalstatus": "married",
+      "phonenumber": "1234567890",
+      "dateofbirth": "1990-04-10",
+      "registrationDate": "2021-02-08",
+      "idtype": "passport",
+      "idnumber": "12345678",
+      "id": "R-207"
+    },
+    {
+      "name": "Schmit",
+      "username": "Micheal",
+      "password": "12345678",
+      "address": "Mumbai",
+      "citizenship": "Indian",
+      "statename": "Mumbai",
+      "country": "India",
+      "zipCode": "324562",
+      "email": "micheal@msn.com",
+      "gender": "male",
+      "maritalstatus": "married",
+      "phonenumber": "9876543210",
+      "dateofbirth": "2001-02-16",
+      "registrationDate": "2021-02-08",
+      "idtype": "driving",
+      "idnumber": "234567",
+      "id": "R-636"
+    }
+  ]
+}
